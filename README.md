@@ -5,7 +5,7 @@ This project sets up a basic AWS infrastructure using Terraform.
 ## Tools
 - Terraform
 - AWS EC2
-- GitHub + GitLab CI/CD (planned)
+- GitHub + CI/CD (planned)
 
 ## Goals
 - Simple app test
