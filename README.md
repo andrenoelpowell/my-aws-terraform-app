@@ -14,7 +14,7 @@ This project sets up a basic AWS infrastructure using Terraform.
 # ✅ Project Setup Task List: AWS + VSCode + GitHub + Terraform + Flask
 
 ## 🔧 Initial Setup
-- [ ] Create a GitHub repository named `my-aws-terraform-app`
+- [x] Create a GitHub repository named `my-aws-terraform-app`
 - [ ] Clone the repo locally using VSCode terminal
 - [ ] Create project folder structure: `terraform/`, `app/`
 
